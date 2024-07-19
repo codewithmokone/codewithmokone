@@ -47,6 +47,16 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   - Implemented features to notify users about new opportunities.
   - Achieved a user base of X, surpassing initial projections.
 </details>
+
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <p>
+    <i>You can reach out to me via</i>
+    <a href="mailto:[your-email]">
+      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/Gmail.gif" width="100"/>
+    </a>
+  </p>
+</details>
 <!--
 **codewithmokone/codewithmokone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
