@@ -34,7 +34,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 #### React Native Restaurant App(link to project): 
   - This application allows you to view food menus and make orders and it uses Payfast as a payment gateway.
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Tools I use
+## Tools I use
 - IDE & Editors: [Your preferred IDEs and code editors, e.g., VS Code, PyCharm]
 - Version Control: Git, GitHub
 - CI/CD: [Your preferred CI/CD tools, e.g., Jenkins, GitHub Actions]
