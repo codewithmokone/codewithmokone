@@ -15,12 +15,12 @@
 
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
-## What I do
+### What I do
 - Current Role: [Your Current Job Title/Role] at [Your Company]
-- Specialization: [Your Specialization, e.g., Full Stack Development, Data Science, DevOps]
-- Technologies: Proficient in [list your key programming languages and technologies, e.g., Python, JavaScript, Docker, etc.]
+- Specialization: Frontend and Backend developer, React Native mobile developer.
+- Technologies: Proficient in HTML5, CSS3, JavaScript, Reac.js, React Native, Firebase, Node.js, Express.js, Restful API's. 
 
-## What I'm Learning
+### What I'm Learning
 - New technology or skill you're currently learning, e.g., Machine Learning, Blockchain Development]
 
 ### My Projects
