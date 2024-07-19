@@ -30,7 +30,9 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   - The admin app allows an admin to add and maintain rooms in a hotel.
   - The client app allows users to register, login, browse the rooms and then book when interested.
   - Rooms are booked using Stripe as a payment gateway.
-####[Project 2 Name](link to project): A brief description of what it does and the technologies used.
+    
+#### React Native Restaurant App(link to project): 
+  - This application allows you to view food menus and make orders and it uses Payfast as a payment gateway.
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Tools I use
 - IDE & Editors: [Your preferred IDEs and code editors, e.g., VS Code, PyCharm]
