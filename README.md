@@ -20,13 +20,22 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 - Specialization: [Your Specialization, e.g., Full Stack Development, Data Science, DevOps]
 - Technologies: Proficient in [list your key programming languages and technologies, e.g., Python, JavaScript, Docker, etc.]
 
-<details>
- <summary>
-    <h2> 
-      <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/about.png" width="37" /> 
-    Resume
-    </h2>
-</summary>
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> What I'm Learning
+- New technology or skill you're currently learning, e.g., Machine Learning, Blockchain Development]
+
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> My Projects
+- [Project 1 Name](link to project): A brief description of what it does and the technologies used.
+- [Project 2 Name](link to project): A brief description of what it does and the technologies used.
+
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Tools I use
+- IDE & Editors: [Your preferred IDEs and code editors, e.g., VS Code, PyCharm]
+- Version Control: Git, GitHub
+- CI/CD: [Your preferred CI/CD tools, e.g., Jenkins, GitHub Actions]
+- Cloud Services: [Your preferred cloud services, e.g., AWS, Azure, GCP]
+
+## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Tools I useHow to Reach Me
+- Email: [Your Email Address]
+- LinkedIn: [Your LinkedIn Profile]
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
