@@ -24,7 +24,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 - New technology or skill you're currently learning, e.g., Machine Learning, Blockchain Development]
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> My Projects
-- [Project 1 Name](link to project): A brief description of what it does and the technologies used.
+#### Hotel Booking Site(link to project):
+  - React application with CRUD operations that integrate with Firebase.
 - [Project 2 Name](link to project): A brief description of what it does and the technologies used.
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Tools I use
