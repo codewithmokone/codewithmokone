@@ -23,10 +23,14 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> What I'm Learning
 - New technology or skill you're currently learning, e.g., Machine Learning, Blockchain Development]
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> My Projects
+### My Projects
 #### Hotel Booking Site(link to project):
-  - React application with CRUD operations that integrate with Firebase.
-- [Project 2 Name](link to project): A brief description of what it does and the technologies used.
+  - This is a React application with CRUD and Auth operations that integrate with Firebase.
+  - This application takes a form of two separate applications, one for admin and one for the client/customer.
+  - The admin app allows an admin to add and maintain rooms in a hotel.
+  - The client app allows users to register, login, browse the rooms and then book when interested.
+  - Rooms are booked using Stripe as a payment gateway.
+####[Project 2 Name](link to project): A brief description of what it does and the technologies used.
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> Tools I use
 - IDE & Editors: [Your preferred IDEs and code editors, e.g., VS Code, PyCharm]
