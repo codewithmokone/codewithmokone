@@ -26,7 +26,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
  <details>
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
-   <p>Diploma in Internet Engineering - Rosebank College IIE</p> <span><img src="https://www.rosebankcollege.co.za/media/ecrdo4gg/logo-colour.svg"></span>
+   <p>Diploma in Internet Engineering - Rosebank College IIE</p> <span><img src="https://www.rosebankcollege.co.za/media/ecrdo4gg/logo-colour.svg?style=for-the-badge"></span>
    <p>Certificate in React Code - CodeTribe Academy MLab</p>
   <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
 <!--   <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span> -->
