@@ -33,7 +33,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 - CI/CD: [Your preferred CI/CD tools, e.g., Jenkins, GitHub Actions]
 - Cloud Services: [Your preferred cloud services, e.g., AWS, Azure, GCP]
 
-## Tools I useHow to Reach Me
+### How to Reach Me
 - Email: mslephoto@outlook.com
 - LinkedIn: [Your LinkedIn Profile]
 
