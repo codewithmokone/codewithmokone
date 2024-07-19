@@ -28,8 +28,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/academics.gif" width="29"/> Academics</h4></summary>
    <p>Diploma in Internet Engineering - Rosebank College IIE</p>
    <p>Certificate in React Code - CodeTribe Academy MLab</p>
-  <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span>
+<!--   <span><img src="https://img.shields.io/badge/BTECH-[YourUniversity]-1877F2?style=for-the-badge"></span> -->
+<!--   <span><img src="https://img.shields.io/badge/GPA-[YourGPA]-EFEEE9?style=for-the-badge"></span> -->
  </details>
 
  <details>
@@ -37,6 +37,15 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   - **[Your Role] ** at [Company] | [Duration]
     - [Work Description]
  </details>
+</details>
+
+<details>
+  <summary><h4> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/projects.gif" width="29"/> Projects</h4></summary>
+
+  #### <a href="https://github.com/[YourUsername]/[Project-Name]">[Project Name]</a>
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+  - Implemented features to notify users about new opportunities.
+  - Achieved a user base of X, surpassing initial projections.
 </details>
 <!--
 **codewithmokone/codewithmokone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
