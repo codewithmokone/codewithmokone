@@ -1,8 +1,4 @@
 ## <h1 align="center">Hi, I'm Simon Lephoto.</h1>
-## <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
-  Fullstack Developer
-</h2>
 
 ## About Me
 
