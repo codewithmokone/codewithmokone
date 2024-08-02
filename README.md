@@ -13,15 +13,12 @@
 
 ## About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **MERN, Android Development, and Chatbot Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **Full Stack Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 ### What I do
-- Current Role: [Your Current Job Title/Role] at [Your Company]
+- Current Role: Unemployed.
 - Specialization: Frontend and Backend developer, React Native mobile developer.
 - Technologies: Proficient in HTML5, CSS3, JavaScript, Reac.js, React Native, Firebase, Node.js, Express.js, Restful API's. 
-
-### What I'm Learning
-- New technology or skill you're currently learning, e.g., Machine Learning, Blockchain Development]
 
 ### My Projects
 #### Hotel Booking Site(link to project):
@@ -35,10 +32,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   - This application allows you to view food menus and make orders and it uses Payfast as a payment gateway.
 
 ## Tools I use
-- IDE & Editors: [Your preferred IDEs and code editors, e.g., VS Code, PyCharm]
+- IDE & Editors: VS Code.
 - Version Control: Git, GitHub
-- CI/CD: [Your preferred CI/CD tools, e.g., Jenkins, GitHub Actions]
-- Cloud Services: [Your preferred cloud services, e.g., AWS, Azure, GCP]
 
 ### How to Reach Me
 - Email: mslephoto@outlook.com
