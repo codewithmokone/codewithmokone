@@ -5,8 +5,8 @@
 I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **Full Stack Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
 
 ### Qualifications
-- Diploma in Internet Engineering (IIE)
-- Certificate in React (MLab)
+- Diploma in Internet Engineering (Rosebank College IIE)
+- Certificate in React (CodeTribe Academy MLab)
 
 ### What I do
 - Current Role: Unemployed.
