@@ -25,7 +25,8 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   - This application allows you to view food menus and make orders and it uses Payfast as a payment gateway.
 
 ### Tools I use
-- IDE & Editors: VS Code.
+- IDE & Editors: VS Code
+- Design: Figma
 - Version Control: Git, GitHub
 
 ### How to Reach Me
