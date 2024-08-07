@@ -9,7 +9,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 - Certificate in React (CodeTribe Academy MLab)
 
 ### What I do
-- Current Role: Unemployed.
+- Current Role: Open to work.
 - Specialization: Frontend and Backend developer, React Native mobile developer.
 - Technologies: Proficient in HTML5, CSS3, JavaScript, Reac.js, React Native, Firebase, Node.js, Express.js, Restful API's. 
 
