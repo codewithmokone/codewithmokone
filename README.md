@@ -11,10 +11,10 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 ### What I do
 - Current Role: Open to work.
 - Specialization: Frontend and Backend developer, React Native mobile developer.
-- Technologies: Proficient in HTML5, CSS3, JavaScript, Reac.js, React Native, Firebase, Node.js, Express.js, Restful API's. 
+- Technologies: Proficient in HTML5, CSS3, JavaScript, Reac.js, React Native, Firebase, Node.js, Express.js, Restful API's and payment gateways. 
 
 ### My Projects
-#### Hotel Booking Site(link to project):
+#### Hotel Booking Site - Visit website https://hotel-booking-app-9ad18.web.app/.
   - This is a React application with CRUD and Auth operations that integrate with Firebase.
   - This application takes a form of two separate applications, one for admin and one for the client/customer.
   - The admin app allows an admin to add and maintain rooms in a hotel.
