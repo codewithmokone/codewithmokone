@@ -21,7 +21,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
   - The client app allows users to register, login, browse the rooms and then book when interested.
   - Rooms are booked using Stripe as a payment gateway.
     
-#### React Native Restaurant App(link to project): 
+#### React Native Restaurant App
   - This application allows you to view food menus and make orders and it uses Payfast as a payment gateway.
 
 ### Tools I use
