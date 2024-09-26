@@ -7,7 +7,7 @@ websites. Skilled in collaborating with designers and back-end developers to cre
 
 ### Qualifications
 - Diploma in Internet Engineering (Rosebank College IIE) - 2012
-- Certificate in React (CodeTribe Academy MLab) - 2023
+- Certificate in React Course (CodeTribe Coding Academy MLab) - 2023
 
 ### What I do
 - Current Role: Open to work.
