@@ -2,11 +2,12 @@
 
 ### About Me
 
-I am a passionate Fullstack Developer with a strong foundation in both frontend and backend technologies. A versatile developer specializing in **Full Stack Development** with a passion for continuous learning. My expertise lies in integration, improving user interfaces, and enhancing overall user experiences. I thrive on solving challenging problems and creating innovative solutions.
+Passionate and detail-oriented Front-End Developer with a solid foundation in HTML, CSS, JavaScript, React, React Native, and hands-on experience in building responsive and user-friendly
+websites. Skilled in collaborating with designers and back-end developers to create seamless web applications. Eager to learn new technologies and frameworks like Angular and Vue.js to further enhance front-end capabilities. Strong problem-solving skills and a commitment to improving web performance and user experience.
 
 ### Qualifications
-- Diploma in Internet Engineering (Rosebank College IIE)
-- Certificate in React (CodeTribe Academy MLab)
+- Diploma in Internet Engineering (Rosebank College IIE) - 2012
+- Certificate in React (CodeTribe Academy MLab) - 2023
 
 ### What I do
 - Current Role: Open to work.
@@ -31,7 +32,7 @@ I am a passionate Fullstack Developer with a strong foundation in both frontend 
 
 ### How to Reach Me
 - Email: mslephoto@outlook.com
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: https://www.linkedin.com/in/simon-lephoto/
 
 <!--
 **codewithmokone/codewithmokone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
