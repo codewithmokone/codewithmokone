@@ -1,6 +1,6 @@
 ## <h1 align="center">Hi, I'm Simon Lephoto.</h1>
 
-<img align="left" width="47%" height="170px" src="https://github-readme-stats.vercel.app/api?username=MokoneSA&show_icons=true&theme=radical" />
+<img align="left" width="47%" height="170px" src="https://github-readme-stats.vercel.app/api?username=codewithmokone&show_icons=true&theme=radical" />
 
 <img align="left" width="47%" height="160px" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokoneSA&layout=compact" /><br><br><br><br><br><br><br><br><br>
 
