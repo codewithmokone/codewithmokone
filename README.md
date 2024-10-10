@@ -17,7 +17,7 @@
 
 <img align="left" src="https://img.shields.io/badge/express.js%20-%20%23000000.svg?style=for-the-badge&logo=express&logoColor=white" /><br>
 
-<img align="left" src="https://img.shields.io/badgefirebase%20-%20%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" /><br>
+<img align="left" src="https://img.shields.io/badge/firebase%20-%20%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" /><br>
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
