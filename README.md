@@ -2,7 +2,7 @@
 
 <img align="left" width="47%" height="170px" src="https://github-readme-stats.vercel.app/api?username=codewithmokone&show_icons=true&theme=radical" />
 
-<img align="left" width="47%" height="160px" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MokoneSA&layout=compact" /><br><br><br><br><br><br><br><br><br>
+<img align="left" width="47%" height="160px" margin-bottom="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithmokone&layout=compact" /><br><br><br><br><br><br><br><br><br>
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
