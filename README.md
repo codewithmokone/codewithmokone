@@ -1,5 +1,7 @@
 ## <h1 align="center">Hi, I'm Simon Lephoto.</h1>
 
+<img align="left" width="47%" height="170px" src="https://github-readme-stats.vercel.app/api?username=MokoneSA&show_icons=true&theme=radical" />
+
 ### About Me
 
 Passionate and detail-oriented Front-End Developer with a solid foundation in HTML, CSS, JavaScript, React, React Native, and hands-on experience in building responsive and user-friendly
