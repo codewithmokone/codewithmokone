@@ -11,7 +11,7 @@
 
 <img align="left" src="https://img.shields.io/badge/react.js-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
 
-<img align="left" src="https://img.shields.io/badge/node.js-%235FA04E.svg?style=for-the-badge&logo=node&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/node.js-%235FA04E.svg?style=for-the-badge&logo=nodejs&logoColor=white" />
 
 <img align="left" src="https://img.shields.io/badge/react-native-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
