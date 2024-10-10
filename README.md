@@ -19,6 +19,8 @@
 
 <img align="left" src="https://img.shields.io/badge/firebase%20-%20%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" />
 
+<img align="left" src="https://img.shields.io/badge/mongodb%20-%20%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 ### About Me
