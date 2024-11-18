@@ -54,7 +54,7 @@ websites. Skilled in collaborating with designers and back-end developers to cre
 - Version Control: Git, GitHub
 
 ### How to Reach Me
-- Email: mslephoto@outlook.com
+- Email: simonlephotojr@gmail.com
 - LinkedIn: https://www.linkedin.com/in/simon-lephoto/
 
 <!--
